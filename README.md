@@ -1,4 +1,4 @@
-# Hi, I’m marzanoo👋
+# Hi, I’m marzano👋
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marzanoo&show_icons=true"/>
 
