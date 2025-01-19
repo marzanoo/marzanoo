@@ -1,8 +1,8 @@
 # Hi, I’m Marzanoo 👋
 
 ### GitHub Stats
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marzanoo&show_icons=true&theme=radical"/>
-<img alt="Top Languages" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzanoo&layout=compact&langs_count=10&theme=radical"/>
+<img alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=marzanoo&show_icons=true&theme=radical"/>
+<img alt="Top Languages" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzanoo&layout=compact&langs_count=10&theme=radical"/>
 <br clear="both">
 
 ---
