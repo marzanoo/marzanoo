@@ -68,12 +68,17 @@
 ---
 
 ## 🏆 Featured Repositories
-<div align="left">
+<div align="center">
   <a href="https://github.com/marzanoo/otoparts2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts2&theme=radical" width="45%"/>
   </a>
   <a href="https://github.com/marzanoo/otoparts-mobile">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts-mobile&theme=radical" width="45%"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/marzanoo/keuanganku">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical" width="45%"/>
   </a>
 </div>
 
