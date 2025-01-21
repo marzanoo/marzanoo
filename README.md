@@ -9,10 +9,10 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzanoo&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzanoo&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzanoo&theme=radical" alt="GitHub Streak"/>
   <img src="https://streak-stats.demolab.com/?user=marzanoo&theme=radical" alt="GitHub Streak"/>
-  <img src="https://streak-stats.demolab.com/?user=marzanoo" alt="GitHub Streak"/> -->
+  <img src="https://streak-stats.demolab.com/?user=marzanoo" alt="GitHub Streak"/>
 </p>
 
 ---
