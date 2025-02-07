@@ -80,6 +80,9 @@
   <a href="https://github.com/marzanoo/keuanganku">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical" width="45%"/>
   </a>
+  <a href="https://github.com/marzanoo/laranext">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=laranext&theme=radical" width="45%"/>
+  </a>
 </div>
 
 ---
