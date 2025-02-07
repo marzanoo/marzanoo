@@ -70,15 +70,15 @@
 ## 🏆 Featured Repositories
 <div align="center">
   <a href="https://github.com/marzanoo/otoparts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts2&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts&theme=radical" width="45%"/>
   </a>
   <a href="https://github.com/marzanoo/otoparts-mobil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts-mobile&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts-mobil&theme=radical" width="45%"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/marzanoo/keuangank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuangank&theme=radical" width="45%"/>
   </a>
   <a href="https://github.com/marzanoo/laranext">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=laranext&theme=radical" width="45%"/>
