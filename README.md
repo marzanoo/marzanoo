@@ -95,16 +95,11 @@
   <a href="https://discord.com/nojano_" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" title="Discord">
   </a>
-  <a href="https://www.tiktok.com/@maarzano" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok" width="40" title="TikTok">
-  </a>
 </div>
 
 - **Instagram:** [@tanzanomikaill](https://www.instagram.com/tanzanomikaill)
 - **Discord:** [@nojano_](https://www.discord.com/nojano_)
-- **TikTok:** [@maarzano](https://www.tiktok.com/@maarzano)
 
 ---
 
 ## Let’s Collaborate!
-🌟 Jika Anda tertarik untuk berkolaborasi atau ingin tahu lebih banyak tentang proyek saya, jangan ragu untuk menghubungi saya!
