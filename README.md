@@ -9,7 +9,7 @@
 
 ### 
 
-[![wakatime](https://wakatime.com/badge/user/marzanoo.svg)](https://wakatime.com/@marzanoo)
+
 
 ---
 
