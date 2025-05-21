@@ -1,15 +1,18 @@
-# Hi, I’m Marzanoo 👋
+# Hi, I'm Marzanoo 👋
+
+<details>
+<summary>▼ ↓ Total Profile Visitors ↓ ▼</summary>
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marzanoo/count.svg" alt="Visitor Count" />
+</div>
+</details>
 
 ### GitHub Stats
-<img alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=marzanoo&show_icons=true&theme=radical"/>
-<img alt="Top Languages" align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzanoo&layout=compact&langs_count=10&theme=radical"/>
-<br clear="both">
-
----
-
-### 
-
-
+<div align="center">
+  <img alt="my stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=marzanoo&show_icons=true&theme=radical&border_color=FFFFFF"/>
+  <img alt="Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzanoo&layout=compact&langs_count=10&theme=radical&border_color=FFFFFF"/>
+</div>
 
 ---
 
@@ -17,48 +20,50 @@
 
 ### **Programming Languages & Frameworks**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" title="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" title="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" title="Next.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" title="Express.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" title="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" title="PHP">
-  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" title="Laravel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" title="Flask">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" title="TensorFlow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="50" title="CodeIgniter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" title="C">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" title="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </div>
 
 ---
 
 ### **Web Development**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" title="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" title="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" title="Bootstrap">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" title="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </div>
 
 ---
 
 ### **Databases**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" title="MongoDB">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" title="Firebase">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
 ---
 
 ### **Tools**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" title="Anaconda">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="50" title="Android Studio">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 
 ---
@@ -66,18 +71,18 @@
 ## 🏆 Featured Repositories
 <div align="center">
   <a href="https://github.com/marzanoo/otoparts2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts2&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts2&theme=radical&border_color=FFFFFF" width="48%"/>
   </a>
   <a href="https://github.com/marzanoo/otoparts-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts-mobile&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts-mobile&theme=radical&border_color=FFFFFF" width="48%"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/marzanoo/keuanganku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical&border_color=FFFFFF" width="48%"/>
   </a>
   <a href="https://github.com/marzanoo/laranext">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=laranext&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=laranext&theme=radical&border_color=FFFFFF" width="48%"/>
   </a>
 </div>
 
@@ -86,16 +91,21 @@
 ## Let's Connect! 🌟
 <div align="left">
   <a href="https://www.instagram.com/tanzanomikaill" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://discord.com/nojano_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
 - **Instagram:** [@tanzanomikaill](https://www.instagram.com/tanzanomikaill)
-- **Discord:** [@nojano_](https://www.discord.com/nojano_)
+- **Discord:** [@nojano_](https://discord.com/nojano_)
+- **LinkedIn:** [Tanzano Mikail](https://www.linkedin.com/in/tanzano-mikail) <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
-## Let’s Collaborate!
+## Let's Collaborate!
+I'm always open to interesting projects and collaboration opportunities. Feel free to reach out!
