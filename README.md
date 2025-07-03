@@ -73,19 +73,11 @@
 
 ## 🏆 Featured Repositories
 <div align="center">
-  <a href="https://github.com/marzanoo/otoparts2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts2&theme=radical&border_color=FFFFFF" width="48%"/>
+  <a href="https://github.com/marzanoo/audit-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=audit-app&theme=radical&border_color=FFFFFF" width="48%"/>
   </a>
-  <a href="https://github.com/marzanoo/otoparts-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=otoparts-mobile&theme=radical&border_color=FFFFFF" width="48%"/>
-  </a>
-</div>
-<div align="center">
   <a href="https://github.com/marzanoo/keuanganku">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical&border_color=FFFFFF" width="48%"/>
-  </a>
-  <a href="https://github.com/marzanoo/laranext">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=laranext&theme=radical&border_color=FFFFFF" width="48%"/>
   </a>
 </div>
 
