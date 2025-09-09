@@ -72,14 +72,6 @@
 ---
 
 ## 🏆 Featured Repositories
-<div align="center">
-  <a href="https://github.com/marzanoo/audit-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=audit-app&theme=radical&border_color=FFFFFF" width="48%"/>
-  </a>
-  <a href="https://github.com/marzanoo/keuanganku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=keuanganku&theme=radical&border_color=FFFFFF" width="48%"/>
-  </a>
-</div>
 
 ---
 
