@@ -80,7 +80,7 @@
   <a href="https://www.instagram.com/tanzanomikaill" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://discord.com/nojano_" target="_blank">
+  <a href="https://discord.com/327408517910626314" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
