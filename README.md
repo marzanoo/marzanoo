@@ -1,118 +1,78 @@
-# Hi, I'm Marzanoo 👋
+# Hi there, I'm Marzanoo 👋
 
-<details>
-<summary>▼ ↓ Total Profile Visitors ↓ ▼</summary>
-<br>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/marzanoo/count.svg" alt="Visitor Count" />
-</div>
-</details>
-
-## 📊 GitHub Statistics
+<img src="https://github.com/marzanoo/marzanoo/blob/main/assets/banner.gif?raw=true" alt="banner" width="100%"/>
 
 <div align="center">
-
-### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=marzanoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-### ⚡ GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=marzanoo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzanoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
+  <img src="https://komarev.com/ghpvc/?username=marzanoo&color=8b5cf6&style=flat-square&label=Profile+Views" />
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+## 🚀 About Me
+Full-Stack Developer | Coffee & Code Addict  
+Currently building things with Next.js, Laravel, and a bit of AI magic.
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=marzanoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img height="180" src="https://github-readme-stats.anuraghazra.io/api?username=marzanoo&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.anuraghazra.io/api/top-langs/?username=marzanoo&theme=gruvbox&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
----
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzanoo&theme=gruvbox&hide_border=true" />
 </div>
 
-## My Skills
-
-### **Programming Languages & Frameworks**
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marzanoo&theme=gruvbox&no-frame=true&column=7&margin-w=15" />
 </div>
 
----
+<br/>
 
-### **Web Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,java,php,laravel,kotlin,c,cpp" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,mongodb,firebase,git,github,vscode,androidstudio,postman,docker" />
 </div>
 
----
+<br/>
 
-### **Databases**
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</div>
+## 🔥 Featured Projects
 
----
-
-### **Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</div>
-
----
-
-## 🏆 Featured Repositories
-
----
-
-## Let's Connect! 🌟
-<div align="left">
-  <a href="https://www.instagram.com/tanzanomikaill" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<div align="center">
+  <a href="https://github.com/marzanoo/your-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=your-repo-1&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://discord.com/327408517910626314" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://github.com/marzanoo/your-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marzanoo&repo=your-repo-2&theme=gruvbox&hide_border=true" />
   </a>
 </div>
 
-- **Instagram:** [@tanzanomikaill](https://www.instagram.com/tanzanomikaill)
-- **Discord:** [@nojano_](https://discord.com/nojano_)
-- **LinkedIn:** [Tanzano Mikail](https://www.linkedin.com/in/tanzano-mikail) <!-- Replace with your actual LinkedIn URL -->
+<br/>
 
----
+## ⚡ Fun Fact
+> I once deployed to production with `git push --force` at 4 AM... and it worked. Don't try this at home. 😅
 
-## Let's Collaborate!
-I'm always open to interesting projects and collaboration opportunities. Feel free to reach out!
+<br/>
+
+## 📬 Let's Connect!
+
+<div align="center">
+  <a href="https://instagram.com/tanzanomikaill">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/327408517910626314">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanzano-mikail">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/marzanoo/marzanoo/blob/main/assets/footer.gif?raw=true" width="100%"/>
+</div>
