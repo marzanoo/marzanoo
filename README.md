@@ -33,7 +33,7 @@ Currently building with **Next.js 15**, **Laravel**, **Flutter**, and exploring 
 
 <br/>
 
-## 🛠️ Tech Stack (Rapih + Kategori Jelas)
+## 🛠️ Tech Stack
 
 ### Web Development
 <div align="center">
